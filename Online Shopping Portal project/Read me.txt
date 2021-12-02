@@ -18,9 +18,6 @@ How to run the Online Shoppinh System Portal
 
 Login Details For User :
 
-Username : anuj.lpu1@gmail.com
-Password : Test@123
-
 For Admin :
 User Name : admin
 Password :  admin
