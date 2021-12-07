@@ -106,7 +106,7 @@ header('location:my-wishlist.php');
 </header>
 <!-- ============================================== HEADER : END ============================================== -->
 </div><!-- /.breadcrumb -->
-<div class="body-content outer-top-xs">
+<div class="body-content outer-top-xs" style="background-color:#CAEAF6">
 	<div class='container'>
 		<div class='row outer-bottom-sm'>
 			<div class='col-md-3 sidebar'>
@@ -132,7 +132,8 @@ while($row=mysqli_fetch_array($sql))
     </nav>
 </div>
 </div><!-- /.side-menu -->
-<!-- ================================== TOP NAVIGATION : END ================================== -->	            <div class="sidebar-module-container">
+<!-- ================================== TOP NAVIGATION : END ================================== -->	            
+<div class="sidebar-module-container">
 	            	<h3 class="section-title">shop by</h3>
 	            	<div class="sidebar-filter">
 		            	<!-- ============================================== SIDEBAR CATEGORY ============================================== -->

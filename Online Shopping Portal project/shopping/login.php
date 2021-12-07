@@ -155,7 +155,7 @@ error:function (){}
 </header>
 
 <!-- ============================================== HEADER : END ============================================== -->
-<div class="breadcrumb">
+<div class="breadcrumb" style="background-color:#9EBBDC">
 	<div class="container">
 		<div class="breadcrumb-inner">
 			<ul class="list-inline list-unstyled">

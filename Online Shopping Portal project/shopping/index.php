@@ -66,7 +66,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 		<link rel="shortcut icon" href="assets/images/favicon.ico">
 
 	</head>
-    <body class="cnt-home">
+    <body class="cnt-home" >
 	
 		
 	
@@ -78,8 +78,8 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 </header>
 
 <!-- ============================================== HEADER : END ============================================== -->
-<div class="body-content outer-top-xs" id="top-banner-and-menu">
-	<div class="container">
+<div class="body-content outer-top-xs" id="top-banner-and-menu" style="background-color:#CAEAF6">
+	<div class="container" style="background-color: #092834">
 		<div class="furniture-container homepage-container">
 		<div class="row">
 		
@@ -95,13 +95,13 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 <div id="hero" class="homepage-slider3">
 	<div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
 		<div class="full-width-slider">	
-			<div class="item" style="background-image: url(assets/images/sliders/slider1.png);">
+			<div class="item" style="background-image: url(assets/images/sliders/retail.jpg);">
 				<!-- /.container-fluid -->
 			</div><!-- /.item -->
 		</div><!-- /.full-width-slider -->
 	    
 	    <div class="full-width-slider">
-			<div class="item full-width-slider" style="background-image: url(assets/images/sliders/slider2.png);">
+			<div class="item full-width-slider" style="background-image: url(assets/images/sliders/photo-1620714223084-8fcacc6dfd8d.jpg);">
 			</div><!-- /.item -->
 		</div><!-- /.full-width-slider -->
 

@@ -12,7 +12,7 @@
 		}
 	}
 ?>
-	<div class="main-header">
+	<div class="main-header" style="background-color:#347C98">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-3 logo-holder">

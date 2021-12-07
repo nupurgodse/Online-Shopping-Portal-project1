@@ -1,5 +1,5 @@
 <footer id="footer" class="footer color-bg">
-	  <div class="links-social inner-top-sm">
+	  <div class="links-social inner-top-sm" style="background-color: #092834">
         <div class="container">
             <div class="row">
             	<div class="col-xs-12 col-sm-6 col-md-4">
